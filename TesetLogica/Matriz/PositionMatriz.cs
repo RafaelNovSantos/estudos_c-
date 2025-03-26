@@ -2,7 +2,7 @@
 
 public class PositionMatriz
 {
-    public static void Main(string[] args)
+    public static void g(string[] args)
     {
         string[] input = Console.ReadLine().Split(" ");
         int[,] matriz = new int[int.Parse(input[0]), int.Parse(input[1])]; 
