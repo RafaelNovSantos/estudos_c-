@@ -19,7 +19,7 @@ public class Sudoku
     
    public static List<Sudoku> lista = new List<Sudoku>();
 
-    public static void Main()
+    public static void s()
     {
         char[][] board =
         {
